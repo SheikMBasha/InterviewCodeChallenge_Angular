@@ -26,6 +26,7 @@ Troubleshooting:
   * Resolution:
   *  Open the .csproj file and update the npm install command to install with force
   ![image](https://user-images.githubusercontent.com/6515261/169524867-7557cd41-baeb-4063-ad38-09313582af25.png)
+  * If the above step doesn't work, try undoing the change, launch command prompt as administrator and try "npm i"
   
 * UI not loading up
 * Open the folder ClientApp in terminal and install the below command
